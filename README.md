@@ -2,4 +2,4 @@
 this is my first git repisoratory
 <br/>
 <hr>
-author-deepak
+author-muduli
